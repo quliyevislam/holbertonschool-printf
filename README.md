@@ -78,6 +78,7 @@ int main(void)
 - _printf.c: The main printf function implementation.
 - _putchar.c: Helper function to write a character to stdout.
 - main.h: Header file with function prototypes.
+- man_3_printf: Man page for _printf() function.
 - print_number.c: Functions to handle number printing.
 - print_string.c: Functions to handle string printing.
 
