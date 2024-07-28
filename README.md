@@ -119,7 +119,7 @@ int main(void)
 Compile and run the test code:
 
 ```
-gcc -Wall -Werror -Wextra -pedantic *.c -o test_printf
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c -o test_printf
 ./test_printf
 ```
 Authors
