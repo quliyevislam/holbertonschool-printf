@@ -40,7 +40,7 @@ git clone https://github.com/quliyevislam/holbertonschool-printf.git
 Compile the code with your program:
 
 ```
-gcc -Wall -Werror -Wextra -pedantic *.c -o your_program
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -Wno-format *.c -o your_program
 ```
 
 ## Usage
