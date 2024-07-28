@@ -30,7 +30,7 @@ c - the int argument is converted to an unsigned char
 s - the const char * argument is expected to be a pointer to an array of character type (pointer to a string).
 .br
 
-% - A '%' is written.
+% - '%' is written.
 
 .SH RETURN VALUE
 
